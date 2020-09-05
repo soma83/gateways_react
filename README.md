@@ -19,7 +19,7 @@ This will deploy the applocation running on ***http://localhost:3001***.
 
 **Important**
 
-This project runs on port 3000, if you need to use anyother port but 3000 you can edit the file *gateways-react/package.json* the line *start* under *scripts* like
+This project runs on port 3001, if you need to use anyother port but 3001 you can edit the file *gateways-react/package.json* the line *start* under *scripts* like
 >"start": "PORT=XXXX react-scripts start"
 
 where XXXX is your desired port and leaving everything else as it is.
